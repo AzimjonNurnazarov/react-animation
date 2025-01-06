@@ -39,39 +39,39 @@ const Container = styled.div`
 const data = [
   {
     imgUrl:
-      "https://bootstrapmade.com/demo/templates/iPortfolio/assets/img/portfolio/portfolio-1.jpg",
+      "https://bootstrapmade.com/content/demo/iPortfolio/assets/img/portfolio/app-1.jpg",
   },
   {
     imgUrl:
-      "https://bootstrapmade.com/demo/templates/iPortfolio/assets/img/portfolio/portfolio-2.jpg",
+      "https://bootstrapmade.com/content/demo/iPortfolio/assets/img/portfolio/branding-1.jpg",
   },
   {
     imgUrl:
-      "https://bootstrapmade.com/demo/templates/iPortfolio/assets/img/portfolio/portfolio-3.jpg",
+      "https://bootstrapmade.com/content/demo/iPortfolio/assets/img/portfolio/product-1.jpg",
   },
   {
     imgUrl:
-      "https://bootstrapmade.com/demo/templates/iPortfolio/assets/img/portfolio/portfolio-4.jpg",
+      "https://bootstrapmade.com/content/demo/iPortfolio/assets/img/portfolio/books-1.jpg",
   },
   {
     imgUrl:
-      "https://bootstrapmade.com/demo/templates/iPortfolio/assets/img/portfolio/portfolio-5.jpg",
+      "https://bootstrapmade.com/content/demo/iPortfolio/assets/img/portfolio/app-2.jpg",
   },
   {
     imgUrl:
-      "https://bootstrapmade.com/demo/templates/iPortfolio/assets/img/portfolio/portfolio-6.jpg",
+      "https://bootstrapmade.com/content/demo/iPortfolio/assets/img/portfolio/product-2.jpg",
   },
   {
     imgUrl:
-      "https://bootstrapmade.com/demo/templates/iPortfolio/assets/img/portfolio/portfolio-7.jpg",
+      "https://bootstrapmade.com/content/demo/iPortfolio/assets/img/portfolio/branding-2.jpg",
   },
   {
     imgUrl:
-      "https://bootstrapmade.com/demo/templates/iPortfolio/assets/img/portfolio/portfolio-8.jpg",
+      "https://bootstrapmade.com/content/demo/iPortfolio/assets/img/portfolio/books-2.jpg",
   },
   {
     imgUrl:
-      "https://bootstrapmade.com/demo/templates/iPortfolio/assets/img/portfolio/portfolio-9.jpg",
+      "https://bootstrapmade.com/content/demo/iPortfolio/assets/img/portfolio/app-3.jpg",
   },
 ];
 

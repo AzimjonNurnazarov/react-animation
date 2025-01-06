@@ -85,7 +85,7 @@ const Resume = () => {
           <div className="item">
             <h3>Summary</h3>
             <div className="box">
-              <h4>Davron Mamaraimov</h4>
+              <h4>Azimjon Nurnazarov</h4>
               <p>
                 Innovative and deadline-driven Graphic Designer with 3+ years of
                 experience designing and developing user-centered digital/print
@@ -93,16 +93,16 @@ const Resume = () => {
                 deliverable.
               </p>
               <ul>
-                <li>Tashkent region, Angren city, Uzumzor street 13</li>
-                <li>+99899 937 49 96</li>
-                <li>davronmamaraimov1996@gmail</li>
+                <li>Tashkent city, Mirabad district, Q/Massiv-2; Building-11; Apartment-12</li>
+                <li>+99894 619 49 50</li>
+                <li>azimn1993@gmail</li>
               </ul>
             </div>
             <h3>Education</h3>
 
             <div className="box">
               <h4>MASTER OF FINE ARTS & GRAPHIC DESIGN</h4>
-              <span>2015 - 2016</span>
+              <span>2019 - 2023</span>
               <p>Rochester Institute of Technology, Rochester, NY</p>
               <p>
                 Qui deserunt veniam. Et sed aliquam labore tempore sed quisquam

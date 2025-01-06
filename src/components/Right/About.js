@@ -1,6 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-import me from "../Left/avatar/1705845042297.jpg";
+import me from "../Left/avatar/Nurnazarov.jpg";
 import { Slide } from "react-awesome-reveal";
 import KeyboardArrowRightIcon from "@mui/icons-material/KeyboardArrowRight";
 
@@ -100,13 +100,13 @@ const title = [
 ];
 
 const info = [
-  "2 July 1996",
-  27,
+  "27 November 1993",
+  31,
   "www.example.com",
   "Bachelor",
-  "+998999374996",
-  "davronmamaraimov1996@gmail.com",
-  "Tashkent region, Uzbekistan",
+  "+998946194950",
+  "azimn1993@gmail.com",
+  "Tashkent city, Uzbekistan",
   "Available",
 ];
 

@@ -15,12 +15,12 @@ const data = [
   {
     icon: <EmailIcon className="icon" />,
     top: "Email:",
-    bottom: "davronmamaraimov1996@gmail.com",
+    bottom: "azimn1993@gmail.com",
   },
   {
     icon: <SmartphoneIcon className="icon" />,
     top: "Call:",
-    bottom: "+99899 937 49 96",
+    bottom: "+99894 619 49 50",
   },
 ];
 

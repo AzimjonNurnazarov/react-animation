@@ -52,7 +52,7 @@ const Right = () => {
   return (
     <Container>
       <Background>
-        <h2>Davron Mamaraimov</h2>
+        <h2>Azimjon Nurnazarov</h2>
         <p>
           I am a{" "}
           <span

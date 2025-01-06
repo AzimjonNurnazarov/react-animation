@@ -5,7 +5,7 @@ import FacebookIcon from "@mui/icons-material/Facebook";
 import InstagramIcon from "@mui/icons-material/Instagram";
 import TelegramIcon from "@mui/icons-material/Telegram";
 import LinkedInIcon from "@mui/icons-material/LinkedIn";
-import avatar from "./avatar/1705845042297.jpg";
+import avatar from "./avatar/Nurnazarov.jpg";
 import HomeOutlinedIcon from "@mui/icons-material/HomeOutlined";
 import PersonOutlineOutlinedIcon from "@mui/icons-material/PersonOutlineOutlined";
 import NoteOutlinedIcon from "@mui/icons-material/NoteOutlined";
@@ -184,7 +184,7 @@ const Left = () => {
       <Aside>
         <Top>
           <img src={avatar} alt="" />
-          <h3>Davron Mamaraimov</h3>
+          <h3>Azimjon Nurnazarov</h3>
           <ul>
             {icons.map((item) => {
               return (
@@ -217,7 +217,7 @@ const Left = () => {
         <Footer>
           <p>
             &copy; Copyright{" "}
-            <a href="https://t.me/Davron_Mamaraimov">Davron Mamaraimov</a>
+            <a href="https://t.me/Nurnazarov_Azim"> Azimjon Nurnazaov</a>
           </p>
         </Footer>
       </Aside>
