@@ -216,7 +216,7 @@ const Left = () => {
 
         <Footer>
           <p>
-            &copy; Copyright{" "}
+            &copy; Copyright  {" "}
             <a href="https://t.me/Nurnazarov_Azim"> Azimjon Nurnazaov</a>
           </p>
         </Footer>
