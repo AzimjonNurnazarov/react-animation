@@ -205,7 +205,7 @@ const Left = () => {
                   <a href="!#" className="item">
                     {item}
                   </a>
-                  <a href="!#" className="menu">
+                  <a href="https://transcendent-pavlova-aafd45.netlify.app/" className="menu">
                     {menu}
                   </a>
                 </li>
